@@ -5,6 +5,6 @@ def title(text)
   content_for :title, text
 end
 
-<% title @post.title %>
+
 
 end
