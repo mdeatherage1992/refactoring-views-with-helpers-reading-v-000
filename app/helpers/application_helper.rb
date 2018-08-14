@@ -6,7 +6,5 @@ def title(text)
 end
 
 <% title @post.title %>
- 
-<h1><%= @post.title %></h1>
-<p><%= last_updated @post %></p>
-<p><%= @post.description %></p>
+
+end
